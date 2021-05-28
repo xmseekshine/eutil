@@ -1,4 +1,4 @@
-module eutil
+module github.com/xmseekshine/eutil
 
 go 1.16
 
