@@ -4,6 +4,7 @@ import (
 	"unsafe"
 
 	"github.com/modern-go/reflect2"
+	"github.com/xmseekshine/eutil/gls/g"
 )
 
 // offset for go1.4

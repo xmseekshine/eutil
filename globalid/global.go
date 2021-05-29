@@ -1,8 +1,10 @@
 package globalid
 
 import (
-	"eutil/globalid/snowflake"
+	//"eutil/globalid/snowflake"
 	"fmt"
+
+	"github.com/xmseekshine/eutil/globalid/snowflake"
 )
 
 // NodeInfo 节点信息
